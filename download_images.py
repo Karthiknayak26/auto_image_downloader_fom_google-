@@ -7,8 +7,8 @@ import time
 import csv
 
 # Your API credentials
-api_key = "AIzaSyBS_O0vjR_28vWCY48XeZV86aX8hN6CFY0"
-search_engine_id = "029fa609c5f34453a"
+api_key = "YOUR GOOGLE API KEY"
+search_engine_id = "YOUR SERACH ENGINE KEY "
 
 # Prepare images folder
 if not os.path.exists("product_images"):
